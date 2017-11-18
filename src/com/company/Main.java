@@ -6,8 +6,5 @@ public class Main {
 	// write your code here
         System.out.println("hello word!");
         System.out.print("hello java");
-        System.out.print("hello Intellij");
-
-
     }
 }
